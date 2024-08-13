@@ -1,1 +1,2 @@
 # Calculator-Desktop-Application
+This project is a simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. Users can input two numbers and select an operation to get the result. It's designed as an easy-to-understand example for beginners, with clear code and basic error handling for invalid inputs. Ideal for learning or teaching fundamental programming concepts.
